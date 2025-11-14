@@ -30,5 +30,5 @@ git clone https://github.com/xxyrnn/HTTPServer.git
 
 ## Change the default page
 
-To change the default page you have to edit/replace the file called `index.html`.<br />
+To change the default page you have to edit/replace the file called `index.html`<br />
 NOTE: CSS can only be read if inline or through the `<style>` tag in the HTML `<head>`
