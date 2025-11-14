@@ -1,6 +1,6 @@
 # HTTPServer
 
-A simple Java HTTP server
+A basic HTTP server written in Java
 
 ---
 
