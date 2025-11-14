@@ -28,7 +28,7 @@ git clone https://github.com/xxyrnn/HTTPServer.git
 
 3. Open your browser and enter `localhost:6789` in the address bar
 
-## Change the webpage
+## Change the default page
 
 To change the default page you have to edit/replace the file called `index.html`.
 NOTE: CSS can only be read if inline or through the `<style>` tag in the HTML `<head>`
